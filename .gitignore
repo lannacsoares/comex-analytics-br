@@ -1,0 +1,22 @@
+# Credenciais
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# dados (gerados pelos notebooks, nao versionar)
+data/ 
